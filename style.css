@@ -1,0 +1,20 @@
+.cabecalho{
+    background-color:darkcyan;
+    color:black;
+    display: flex;
+    padding: 24px 0;
+}
+
+.section1 {
+    background-color: bisque;
+    padding: 100px;
+}
+
+.section2 {
+    background-color:bisque;
+    padding: 100px;
+}
+.cabecalho-imagem{
+   
+}
+
